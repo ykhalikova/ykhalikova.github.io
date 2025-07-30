@@ -2,21 +2,24 @@ project:
   type: website
   output-dir: docs
 
-
- 
 website:
-  title: "yuliakhalikova"
+  title: "Dr. Yulia Khalikova"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "about me"
+        href: index.qmd
+      - text: "research"
+        href: research.qmd
+      - text: 'teaching'
+        href: teaching.qmd
+
+        
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: 
+      light: cosmo
+      dark: slate
     css: styles.css
     toc: true
 

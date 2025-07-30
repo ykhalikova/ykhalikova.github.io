@@ -1,11 +1,22 @@
 ---
-title: "yuliakhalikova"
+title: ''
+image: photo2.HEIC
+toc: false
+about: 
+  template: trestles #solana
+  image-shape: rectangle
+  image-width: 17em
+  links:
+    - text: cv
+      href: https://www.dropbox.com/scl/fi/m11ehou0namquhfzjf0sm/cv_july2025.pdf?rlkey=bq46jeg1m8i06vrys621ppu7d&st=y7hg5e03&dl=0
+    - text: email
+      href: mailto:khalikovayuliya@gmail.com
+    - text: linkedin
+      href: https://www.linkedin.com/in/khalikovayu
 ---
 
-This is a Quarto website.
+I am a postdoctoral researcher at the Institute of Law and Economics at the University of Hamburg. Currently I lead a three-year research project *The Power and the Limits of International Law,* funded by the Federal Ministry of Education and Research (BMBF) and the Free and Hanseatic City of Hamburg under the Excellence Strategy of the Federal Government and the Länder (2022-2025).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research focuses on how law and judicial institutions function in authoritarian regimes. More specifically, I study the decision-making of constitutional courts and individual strategies of judges under authoritarianism, how modern autocrats use and misuse international law, and ethnic bias in the lower level judiciary. My regional focus is Russia, with several projects looking at Turkey and Kazakhstan.
 
-```{r}
-1 + 1
-```
+In 2021-2022 I have been a postdoctoral researcher at the Center for Russia, East Europe, and Central Asia (CREECA) at the University of Wisconsin-Madison. I hold a Ph.D. in Political Science from the Bremen International Graduate School of Social Sciences (2022).
