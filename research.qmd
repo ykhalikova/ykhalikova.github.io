@@ -4,20 +4,19 @@ format: html
 ---
 
 ### Publications
+- Voice, Withdrawal, and Judicial Disagreement under Authoritarianism: Evidence from the Russian Constitutional Court. 2026 (Forthcoming). *Politics*
 
--   Khalikova, Yulia and Anton Kazun. 2020. Should I Stay, or Should I Go? Self-legitimacy of Attorneys in an Authoritarian State. *Crime, Law and Social Change*, 75: 373–395. [PDF](https://link.springer.com/article/10.1007/s10611-020-09930-1)
+-  Should I Stay, or Should I Go? Self-legitimacy of Attorneys in an Authoritarian State. 2020. *Crime, Law and Social Change*, 75: 373–395. [PDF](https://link.springer.com/article/10.1007/s10611-020-09930-1) (with Anton Kazun)
 
--   Khalikova, Yulia. 2020. Constitutional Review and Dissenting Opinions in Nondemocracies: An Empirical Analysis of the Russian Constitutional Court, 1998–2018.*Ekonomicheskaya Sotsiologiya*, 21(3) (2020): 129–150. [PDF](https://jsps.hse.ru/index.php/ecsoc/article/view/10871)\
+-  Constitutional Review and Dissenting Opinions in Nondemocracies: An Empirical Analysis of the Russian Constitutional Court, 1998–2018. 2020. *Ekonomicheskaya Sotsiologiya*, 21(3) (2020): 129–150. [PDF](https://jsps.hse.ru/index.php/ecsoc/article/view/10871)\
     *Best Paper Award in Empirical Legal Studies (2nd place), Institute for the Rule of Law, European University at Saint-Petersburg*
 
 ------------------------------------------------------------------------
 
 ### Working Papers
 
--   How Authoritarian Courts Use International Law: Evidence from Russia. *R&R*\
+-   How Authoritarian Courts Use International Law: Evidence from Russia. *Under review*\
     *2021 Best Paper Award for Junior Researchers, Law & Courts Standing Group, ECPR*
-
--   Silent Dissent: Judicial Abstention in Authoritarian Courts. *Under review*
 
 -   Authoritarian Control or Legitimacy? Timing Control and Electoral Disputes. *Under review*
 
@@ -33,7 +32,7 @@ format: html
     (with Dmitrii Shchetinin, Anton Kazun, Nikita Zakharov, Vadim Devyatnikov, and Mikhail Belov) — *First draft*
 
 -   Does Collective Action Depend on Shared Ethnicity? The Case of Domestic Violence Trials in Kazakhstan\
-    (with Valeria Umanets, Marcy Shieh & Alisher Juzgenbayev) — *Survey experiment fielded*
+    (with Valeria Umanets and Marcy Shieh) — *First draft*
 
 -   Benefits of Loyal Judiciary: Evidence from District Court Judges — *Data collection*
 
