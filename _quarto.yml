@@ -1,10 +1,10 @@
 project:
   type: website
-  site-url: https://ykhalikova.github.io
   output-dir: docs
 
 website:
   title: "Dr. Yulia Khalikova"
+  site-url: https://ykhalikova.github.io
   navbar:
     left:
       - text: "about me"
