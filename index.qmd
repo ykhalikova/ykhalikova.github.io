@@ -7,16 +7,16 @@ about:
   image-shape: rectangle
   image-width: 17em
   links:
-    - text: cv
-      href: https://www.dropbox.com/scl/fi/m11ehou0namquhfzjf0sm/cv_july2025.pdf?rlkey=bq46jeg1m8i06vrys621ppu7d&st=y7hg5e03&dl=0
+    - text: academic cv
+      href: https://www.dropbox.com/scl/fi/blgnkpf6qrid1pf9n6p4o/academic_cv_june2026.pdf?rlkey=akklyf2vmrx3n2soxc6j854wn&st=zypea4cz&dl=0
+    - text: resume
+      href: https://www.dropbox.com/scl/fi/qmgil9lz36em0pdns87kg/resume_industry_en.pdf?rlkey=2mii4y2h3xb9il6o6jejlc237&st=jq8d7jhw&dl=0
     - text: email
       href: mailto:khalikovayuliya@gmail.com
     - text: linkedin
       href: https://www.linkedin.com/in/khalikovayu
 ---
 
-I am a postdoctoral researcher at the Institute of Law and Economics at the University of Hamburg. Currently I lead a three-year research project *The Power and the Limits of International Law,* funded by the Federal Ministry of Education and Research (BMBF) and the Free and Hanseatic City of Hamburg under the Excellence Strategy of the Federal Government and the Länder (2022-2025).
+I am a data-driven researcher with a PhD in Political Science. My main research focus is on how law and judicial institutions function in authoritarian regimes, and I use predominantely quantitative methods to answer these questions. More specifically, I study the decision-making of constitutional courts and individual strategies of judges under authoritarianism, how modern autocrats use and misuse international law, and ethnic bias in the lower level judiciary. My regional focus is Russia, with several projects looking at Turkey and Kazakhstan. 
 
-My research focuses on how law and judicial institutions function in authoritarian regimes. More specifically, I study the decision-making of constitutional courts and individual strategies of judges under authoritarianism, how modern autocrats use and misuse international law, and ethnic bias in the lower level judiciary. My regional focus is Russia, with several projects looking at Turkey and Kazakhstan.
-
-In 2021-2022 I have been a postdoctoral researcher at the Center for Russia, East Europe, and Central Asia (CREECA) at the University of Wisconsin-Madison. I hold a Ph.D. in Political Science from the Bremen International Graduate School of Social Sciences (2022).
+In 2022-2025 I led a three-year research project *The Power and the Limits of International Law,* funded by the Federal Ministry of Education and Research (BMBF) and the Free and Hanseatic City of Hamburg under the Excellence Strategy of the Federal Government and the Länder (2022-2025). In 2021-2022 I have been a postdoctoral researcher at the Center for Russia, East Europe, and Central Asia (CREECA) at the University of Wisconsin-Madison. I hold a Ph.D. in Political Science from the Bremen International Graduate School of Social Sciences (2022).
