@@ -4,11 +4,11 @@ format: html
 ---
 
 ### Publications
-- Voice, Withdrawal, and Judicial Disagreement under Authoritarianism: Evidence from the Russian Constitutional Court. 2026 (Forthcoming). *Politics*
+- 2026. Voice, Withdrawal, and Judicial Disagreement under Authoritarianism: Evidence from the Russian Constitutional Court. *Politics*, Onlien First [PDF] (https://journals.sagepub.com/doi/full/10.1177/02633957261447472)
 
--  Should I Stay, or Should I Go? Self-legitimacy of Attorneys in an Authoritarian State. 2020. *Crime, Law and Social Change*, 75: 373–395. [PDF](https://link.springer.com/article/10.1007/s10611-020-09930-1) (with Anton Kazun)
+-  2020. Should I Stay, or Should I Go? Self-legitimacy of Attorneys in an Authoritarian State.  *Crime, Law and Social Change*, 75: 373–395. [PDF](https://link.springer.com/article/10.1007/s10611-020-09930-1) (with Anton Kazun)
 
--  Constitutional Review and Dissenting Opinions in Nondemocracies: An Empirical Analysis of the Russian Constitutional Court, 1998–2018. 2020. *Ekonomicheskaya Sotsiologiya*, 21(3) (2020): 129–150. [PDF](https://jsps.hse.ru/index.php/ecsoc/article/view/10871)\
+-  2020. Constitutional Review and Dissenting Opinions in Nondemocracies: An Empirical Analysis of the Russian Constitutional Court, 1998–2018. 2020. *Ekonomicheskaya Sotsiologiya*, 21(3): 129–150. [PDF](https://jsps.hse.ru/index.php/ecsoc/article/view/10871)\
     *Best Paper Award in Empirical Legal Studies (2nd place), Institute for the Rule of Law, European University at Saint-Petersburg*
 
 ------------------------------------------------------------------------
