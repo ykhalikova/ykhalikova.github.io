@@ -4,7 +4,7 @@ format: html
 ---
 
 ### Publications
-- 2026. Voice, Withdrawal, and Judicial Disagreement under Authoritarianism: Evidence from the Russian Constitutional Court. *Politics*, Onlien First [PDF] (https://journals.sagepub.com/doi/full/10.1177/02633957261447472)
+- 2026. Voice, Withdrawal, and Judicial Disagreement under Authoritarianism: Evidence from the Russian Constitutional Court. *Politics*, Online First [PDF](https://journals.sagepub.com/doi/full/10.1177/02633957261447472)
 
 -  2020. Should I Stay, or Should I Go? Self-legitimacy of Attorneys in an Authoritarian State.  *Crime, Law and Social Change*, 75: 373–395. [PDF](https://link.springer.com/article/10.1007/s10611-020-09930-1) (with Anton Kazun)
 
